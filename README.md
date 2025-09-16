@@ -43,7 +43,7 @@ When Kurt asks the impossible —
 
 *Missing Wit* is a haunting meditation on grief, consciousness, and the quiet flaw that makes us real.
 
-![Missing Wit Cover Art] (./src/Missing_Wit.jpeg)
+![Missing Wit Cover Art](./src/Missing_Wit.jpeg)
 
 **🔑 Keywords:**
 - Artificial Intelligence 
